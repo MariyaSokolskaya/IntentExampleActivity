@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentExample</string>
+    <string name="splash">Заставка</string>
+    <string name="main">Главный экран</string>
+    <string name="about">О программе</string>
+    <string name="load_text">Загрузка...</string>
+</resources>
